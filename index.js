@@ -42,6 +42,6 @@ return parsed
 
 function preserveDecimal(a)
 {
-  var parsed = parseInt(a, 10)
-return parsed 
+  var float = parseFloat(a, 10)
+return float 
 }
