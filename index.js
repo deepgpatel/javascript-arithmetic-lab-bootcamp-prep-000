@@ -39,3 +39,9 @@ function makeInt(a)
   var parsed = parseInt(a, 10)
 return parsed 
 }
+
+function preserveDecimal(a)
+{
+  var parsed = parseInt(a, 10)
+return parsed 
+}
