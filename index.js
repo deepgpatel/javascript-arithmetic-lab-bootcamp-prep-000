@@ -36,6 +36,6 @@ return decrement
 
 function makeInt(a)
 {
-  var parsed = parseInt(a, 10)
+  var parsed = parseInt("a", 10)
 return parsed 
 }
